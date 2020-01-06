@@ -1,0 +1,2 @@
+# ignore sql log files like sqltools_20200106095159_3979.log
+sqltools*.log
