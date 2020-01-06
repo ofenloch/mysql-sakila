@@ -20,4 +20,10 @@ oofenloch@teben:~/workspaces/mysql/sakila$ cat ~/.mysql/oofenloch@localhost
 -uoofenloch -pbah2vouRUa9Lu7Ie
 oofenloch@teben:~/workspaces/mysql/sakila$
 ```
-with a valid user (oofenloch in this example) and a valid password (bah2vouRUa9Lu7Ie in thsi example). Of course, the user needs the proper privileges.
+with a valid user (oofenloch in this example) and a valid password (bah2vouRUa9Lu7Ie in this example). Of course, the user needs the proper privileges.
+
+## Database Structure
+
+This picture is the original from <https://dev.mysql.com/doc/sakila/en/sakila-structure.html> and shows the DB's structure:
+
+![Sakila Database Structure](./sakila-schema.png)
